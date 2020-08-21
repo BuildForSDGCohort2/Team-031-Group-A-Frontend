@@ -4,4 +4,4 @@
 
 Edumentor Front end.
 
-Environment is setup 
+Environment is setup
