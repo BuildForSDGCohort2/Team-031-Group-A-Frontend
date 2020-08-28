@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "yarn.lock",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,5 +30,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Aladefaruk/Team-031-Group-A-Frontend.git",
+  "author": "Alade <alade.faruk11@gmail.com>",
+  "license": "MIT"
 }

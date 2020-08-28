@@ -1,13 +1,23 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+   width: 1440px;
+   height: 4006px;
+  background-color: #e6e6e6;
+
+  
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+@media only screen and (max-width:480px){
+  body{
+    width:100%;
+    height: auto;
+    display:block;
+    justify-content: center;
+
+    background-color: #eeeeee
+  }
 }
+
+
+
