@@ -24,7 +24,7 @@
 }
 
 @media only screen and (max-width: 480px) {
-  .card {        
+  .card {
     margin: 100px auto;
     display: block;
     justify-content: center;

@@ -81,7 +81,7 @@
   background-color: #3ec6ff;
 }
 
-.Stext { 
+.Stext {
   width: 202px;
   height: 90px;
   margin-top: 20px;
@@ -107,7 +107,7 @@
   margin-top: -13px;
 }
 
-.pa .Spa { 
+.pa .Spa {
   font-size: 16px;
   text-align: center;
   word-wrap: break-word;
@@ -147,7 +147,7 @@
     position: absolute;
     justify-content: center;
     margin: 0 auto;
-    background: white;      
+    background: white;
   }
 
   .servicecard {
@@ -168,7 +168,7 @@
     position: relative;
     margin: 10px auto;
     justify-content: center;
-    background: white;    
+    background: white;
   }
 
   .services h3 {
