@@ -76,7 +76,7 @@
   padding-bottom: 0;
 }
 
-.borderScreen .mainscreen{
+.borderScreen .mainscreen {
   position: relative;
   margin: 0;
   padding-bottom: -50px;
@@ -85,7 +85,7 @@
   background: #3ec6ff;
   margin-bottom: 20px;
 }
-  
+ 
 .keyboard {
   width: 463px;
   height: 20px;
@@ -168,4 +168,5 @@
 
   .text button {
     margin-top: 20px;
-  }}
+  }
+}

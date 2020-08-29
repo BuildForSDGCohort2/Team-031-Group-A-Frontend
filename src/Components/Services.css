@@ -162,7 +162,6 @@
 
   .Scard {
     display: flex;
-    margin-right: -10px;
     width: 100%;
     height: inherit;
     position: relative;
@@ -178,4 +177,5 @@
 
   .services p {
     text-align: center;
-  }}
+  }
+}
