@@ -12,7 +12,7 @@
   left: 64px;
   top: 220px;
 }
-  
+
 .textHead {
   width: 657px;
   height: 90px;
@@ -23,7 +23,7 @@
   line-height: 45px;
   color: #000;
   display: flex;
-  }
+}
   
 .textContent {
   width: 500px;
@@ -50,7 +50,7 @@
   font-size: 16px;
   line-height: 19px;
   columns: #000;
-  }
+}
   
 .text button:hover {
   background-color: transparent;
@@ -63,9 +63,9 @@
 }
 
 .borderScreen {
-  border: 1px solid #DDD;
+  border: 1px solid #ddd;
   border-bottom: 0px;
-  height: 450px;     
+  height: 450px; 
   position: relative;
   margin-top: 100px;
   float: right;
@@ -73,8 +73,8 @@
   border-radius: 5px;
   width: 350px;
   padding: 20px;
-  padding-bottom: 0px;
- }
+  padding-bottom: 0;
+}
 
 .borderScreen .mainscreen {                        
   position: relative;
@@ -84,7 +84,7 @@
   width: 370px;
   background: #3ec6ff;
   margin-bottom: 20px;   
-  }
+}
   
 .keyboard {
   width: 463px;
@@ -158,7 +158,7 @@
     width: 100%;
     height: inherit;
     text-align: center;
-    margin-left: 0px;
+    margin-left: 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -167,7 +167,7 @@
     color: #000;
 }
 
- .text button {
-              margin-top: 20px;
+  .text button {
+    margin-top: 20px;
 }
 }
