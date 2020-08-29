@@ -17,10 +17,10 @@ h1 {
 }
 
 .Wcon {
-  width:1292px;
+  width: 1292px;
   height: 294px;
   position: relative; 
-  margin: 0 auto ;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
 }
@@ -55,7 +55,9 @@ h1 {
   color: #d6d6d6;
 }
 
-.Wcon h1 {margin:20px auto;}
+.Wcon h1 {
+  margin:20px auto;
+}
 
 @media only screen and (max-width: 480px) {    
   .Wcover {   

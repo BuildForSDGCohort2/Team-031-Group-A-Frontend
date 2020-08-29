@@ -36,7 +36,7 @@
   line-height: 21px;
   columns: #000;
   margin-top: -15px;
-  }
+}
 
 .text button {
   margin-top: -18px;
@@ -64,7 +64,7 @@
 
 .borderScreen {
   border: 1px solid #ddd;
-  border-bottom: 0px;
+  border-bottom: 0;
   height: 450px; 
   position: relative;
   margin-top: 100px;
@@ -89,7 +89,7 @@
 .keyboard {
   width: 463px;
   height: 20px;
-  background-color: #DDD;
+  background-color: #ddd;
   float: right;
   position: relative;
   margin-top: 12px;
@@ -128,7 +128,6 @@
     text-align: center;
     background: #eee;
 }
-
 
   .text {
     display: block; 

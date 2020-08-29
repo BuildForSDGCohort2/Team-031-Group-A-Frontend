@@ -14,7 +14,7 @@ const Partners =() => {
        <div className="Pimg"></div>
 
   </div> 
-  )
+  );
 };
 
 export default Partners;

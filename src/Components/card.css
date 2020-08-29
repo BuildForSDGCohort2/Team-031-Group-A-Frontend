@@ -15,14 +15,18 @@
   background-color: #3ec6ff;
 }
 
-.card h3 {margin-top: -220px;}
+.card h3 {
+  margin-top: -220px;
+}
 
-.card p {margin-top: -200px;}
+.card p {
+  margin-top: -200px;
+}
 
 @media only screen and (max-width: 480px) {
   .card {        
     margin: 100px auto;
     display: block;
-    justify-content: center
+    justify-content: center;
 }
 }

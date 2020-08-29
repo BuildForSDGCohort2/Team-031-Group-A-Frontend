@@ -12,7 +12,7 @@ const How =() => {
   <button><h4>GET STARTED</h4></button>
   
 </div>
-)
+);
 };
 
 export default How;

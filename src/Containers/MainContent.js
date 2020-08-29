@@ -18,7 +18,7 @@ const MainContent=() => {
         <Partners/>
         
       </div>
-    ) 
+    ); 
 };
 
 export default MainContent;
