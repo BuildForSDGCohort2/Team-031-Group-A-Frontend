@@ -121,7 +121,7 @@
   margin-left: -1px;
 }
 
-@media only screen and (max-width: 480px) {    
+@media only screen and (max-width: 480px) {
   .covers {
     width: 100%;
     height: auto;
@@ -178,5 +178,4 @@
 
   .services p {
     text-align: center;
-  }
-}
+  }}

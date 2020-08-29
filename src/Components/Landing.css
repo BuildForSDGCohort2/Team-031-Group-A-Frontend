@@ -51,7 +51,7 @@
   line-height: 19px;
   columns: #000;
 }
- 
+
 .text button:hover {
   background-color: transparent;
   cursor: pointer;
@@ -76,7 +76,7 @@
   padding-bottom: 0;
 }
 
-.borderScreen .mainscreen{                        
+.borderScreen .mainscreen{
   position: relative;
   margin: 0;
   padding-bottom: -50px;
@@ -106,19 +106,19 @@
     justify-content: center;
     margin-left: -70px;
     background: #eee;
-}
+  }
 
   .laptop {
     display: block;
     width: 100%;
     background: #eee;
-}
+  }
 
   .borderScreen {
     width: 0;
     height: 0;
     display: none;
-}
+  }
 
   .textArea {
     display: block;
@@ -127,7 +127,7 @@
     justify-content: center;
     text-align: center;
     background: #eee;
-}
+  }
 
   .text {
     display: block;
@@ -136,7 +136,7 @@
     justify-content: center;
     text-align: center;
     background: #eee;
-}
+  }
 
   .textContent {
     width: 100%;
@@ -151,7 +151,7 @@
     justify-content: center;
     line-height: 20px;
     columns: #000;
-}
+  }
 
   .textHead {
     width: 100%;
@@ -164,9 +164,8 @@
     font-size: 20px;
     line-height: 45px;
     color: #000;
-}
+  }
 
   .text button {
     margin-top: 20px;
-}
-};
+  }}

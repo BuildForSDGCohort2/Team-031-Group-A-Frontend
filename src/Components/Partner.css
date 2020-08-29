@@ -19,7 +19,7 @@
 }
 
 @media only screen and (max-width: 480px) {
-  .Pcover { 
+  .Pcover {
     width: 100%;
     height: auto;
     float: none;
@@ -32,5 +32,4 @@
   .Pimg {
     margin: auto;
     margin-top: 20px;
-  }
-};
+  }}

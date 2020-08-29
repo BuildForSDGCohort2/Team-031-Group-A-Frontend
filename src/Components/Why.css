@@ -59,7 +59,7 @@ h1 {
   margin: 20px auto;
 }
 
-@media only screen and (max-width: 480px) {    
+@media only screen and (max-width: 480px) {
   .Wcover {
     width: 100%;
     height: inherit;
@@ -67,7 +67,7 @@ h1 {
     display: block;
     justify-content: center;
     margin-top: 1875px;
-  }   
+  }
 
   .Wcon {
     width: 100%;
@@ -79,5 +79,4 @@ h1 {
     display: block;
     height: auto;
     margin: 20px 50px;
-  }
-}
+  }}
