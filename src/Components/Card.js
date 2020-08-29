@@ -1,8 +1,8 @@
 import React from "react";
-import "./card.css"
+import "./card.css";
 
 
-const Card =()=> {
+const Card =() => {
   return (
    <div>
 
@@ -12,9 +12,9 @@ const Card =()=> {
        <p>lhdksl sdhfkjdsakl jkhkdjfshhjksdhlj lldjshkdsgkbksdjh ljsklfhvgkbdsjghkhh dsafhjgds</p>
    </div>
    </div>
- 
-  
+
   );
-}
+
+};
 
 export default Card;

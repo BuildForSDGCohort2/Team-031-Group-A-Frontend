@@ -1,17 +1,17 @@
 body {
-     width: 1440px;
-     height: 4006px;
-     background-color: #e6e6e6;
+  width: 1440px;
+  height: 4006px;
+  background-color: #e6e6e6;
 }
 
 
 @media only screen and (max-width: 480px) {
   body {
-      width: 100%;
-      height: auto;
-      display: block;
-      justify-content: center;
-      background-color: #eee;
+    width: 100%;
+    height: auto;
+    display: block;
+    justify-content: center;
+    background-color: #eee;
   }
 }
 

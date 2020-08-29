@@ -1,7 +1,7 @@
 import React from "react";
 import "./Landing.css";
 
-const Landing =()=> {
+const Landing =() => {
   return (
 
     <div className="container">
@@ -20,13 +20,8 @@ const Landing =()=> {
       
       </div>
       
-    </div>
-  
-     
-      
-    
-    
-  );
-}
+    </div> 
+)
+};
 
 export default Landing;

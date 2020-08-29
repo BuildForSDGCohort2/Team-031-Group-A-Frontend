@@ -1,8 +1,8 @@
 import React from "react";
-import "./Why.css"
+import "./Why.css";
 
 
-const Why =()=> {
+const Why =() => {
   return (
    <div className="Wcover">
     <h1>Why Edu-Mentors</h1>
@@ -37,7 +37,7 @@ const Why =()=> {
    </div>
  
   
-  );
-}
+  )
+};
 
 export default Why;

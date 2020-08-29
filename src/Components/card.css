@@ -1,8 +1,8 @@
-.card {  
-      height: 368px;
-      width: 294px;
-      margin: 20px;
-      background-color: #fff3f3;
+.card {
+        height: 368px;
+        width: 294px;
+        margin: 20px;
+        background-color: #fff3f3;
 }
 
 .circle {
@@ -16,7 +16,7 @@
 }
 
 .card h3 {
-         margin-top: -220px;
+        margin-top: -220px;
 }
 
 .card p {
@@ -25,9 +25,9 @@
 }
 
 @media only screen and (max-width: 480px) {
-    .card {
-         margin: 100px auto;
-         display: block;
-        justify-content: center
+        .card {
+                margin: 100px auto;
+                display: block;
+                justify-content: center
 }
 }

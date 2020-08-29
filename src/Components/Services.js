@@ -1,10 +1,8 @@
 import React from "react";
-
-
 import "./Services.css";
 
 
-const Services =()=> {
+const Services =() => {
   return (
    <div className="covers">
      <div className="serviceimage">
@@ -87,7 +85,7 @@ const Services =()=> {
    </div>
  
   
-  );
-}
+  )
+};
 
 export default Services;

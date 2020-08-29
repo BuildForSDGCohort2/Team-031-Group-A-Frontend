@@ -1,10 +1,10 @@
 import React from "react";
-import "./Partner.css"
+import "./Partner.css";
 
 
-const Partners =()=> {
+const Partners =() => {
   return (
-   <div className="Pcover">
+  <div className="Pcover">
        <div className="Pimg"></div>
        <div className="Pimg"></div>
        <div className="Pimg"></div>
@@ -13,11 +13,8 @@ const Partners =()=> {
        <div className="Pimg"></div>
        <div className="Pimg"></div>
 
-  
-   </div>
- 
-  
-  );
-}
+  </div> 
+  )
+};
 
 export default Partners;
