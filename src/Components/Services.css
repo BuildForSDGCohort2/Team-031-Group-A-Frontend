@@ -5,8 +5,7 @@
   margin-right: auto;
   margin-left: auto;
   margin-top: 1425px;
-  background-color: white;  
-  
+  background-color: white;
 }
 
 .serviceimage {
@@ -131,15 +130,15 @@
     justify-content: center;
     margin-left: -7px;
     margin-top: 2950px;
-}
+  }
 
   .serviceimage {
     display: none;
-}
+  }
 
-.image {
-  display: none;
-}
+  .image {
+    display: none;
+  }
 
   .services {
     display: block;
@@ -149,7 +148,7 @@
     justify-content: center;
     margin: 0 auto;
     background: white;      
-}
+  }
 
   .servicecard {
     position: absolute;
@@ -159,7 +158,7 @@
     background: white;
     height: auto;
     justify-content: center;
-}
+  }
 
   .Scard {
     display: flex;
@@ -170,14 +169,14 @@
     margin: 10px auto;
     justify-content: center;
     background: white;    
-}
+  }
 
   .services h3 {
     text-align: center;
     margin: 40px auto;
-}
+  }
 
   .services p {
     text-align: center;
-}
+  }
 }

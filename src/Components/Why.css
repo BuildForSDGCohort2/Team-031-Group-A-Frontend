@@ -56,28 +56,28 @@ h1 {
 }
 
 .Wcon h1 {
-  margin:20px auto;
+  margin: 20px auto;
 }
 
 @media only screen and (max-width: 480px) {    
   .Wcover {   
-     width: 100%;
+    width: 100%;
     height: inherit;
     float: none;
     display: block;
     justify-content: center;
     margin-top: 1875px;
-}   
+  }   
 
   .Wcon {
     width: 100%;
     display: block;
     height: auto;
-}
+  }
 
   .Wcard {
     display: block;
     height: auto;
     margin: 20px 50px;
-}
+  }
 }

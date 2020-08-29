@@ -24,7 +24,7 @@
   color: #000;
   display: flex;
 }
-  
+
 .textContent {
   width: 500px;
   height: 63px;
@@ -76,9 +76,9 @@
   padding-bottom: 0;
 }
 
-.borderScreen .mainscreen {                        
+.borderScreen .mainscreen{                        
   position: relative;
-  margin: 0px;
+  margin: 0;
   padding-bottom: -50px;
   height: 90%;
   width: 370px;
@@ -169,4 +169,4 @@
   .text button {
     margin-top: 20px;
 }
-}
+};
